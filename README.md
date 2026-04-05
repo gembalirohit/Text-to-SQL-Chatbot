@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Text-to-SQL Chatbot
 
 > Convert natural language into SQL queries using LLMs + RAG for intelligent data retrieval.
